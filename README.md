@@ -1,4 +1,4 @@
-
+Token change
 # Displaying Has Many Through Rails
 
 ## Objectives
